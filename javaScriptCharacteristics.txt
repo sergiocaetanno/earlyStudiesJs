@@ -1,0 +1,3 @@
+Linguagem fracamente tipada;
+Linguagem interpretada;
+Tipagem dinâmica;
